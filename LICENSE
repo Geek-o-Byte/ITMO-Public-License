@@ -1,8 +1,25 @@
-ITMO Public License
+Permission is hereby granted, free of charge, to any person obtaining a copy of this AI Model and associated documentation files (the "Model"), to deal in the Model without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Model, and to permit persons to whom the Model is furnished to do so, subject to the following conditions:
 
-**License**
-License hereby grants you, the licensee of this software and related documentation (hereinafter referred to as the "Software"), permission to use, copy, modify, integrate, publish, distribute, sublicense and/or resell copies of the software, subject to the terms and conditions specified in this license.
-**Disclaimer**
-The software is provided "as is", without any express or implied warranties of any kind. This includes, but is not limited to, warranties of merchantability and fitness for a specific purpose. ITMO, its members and copyright holders make no representations or guarantees regarding the software's suitability for any specific purpose.
-It is strictly prohibited to use, modify or distribute the software if it infringes upon the intellectual property rights of third parties. Licensees agree to indemnify ITMO, its affiliates and copyright holders against any liability arising from the use of the software or related matters.
-This License grants you permission to use, copy, modify, and redistribute the software, subject to the terms and conditions set forth in this License.
+Attribution: 
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Model.
+
+Usage:
+
+This Model may be used for commercial, academic, or personal purposes without any restriction.
+Any application of this Model must include proper attribution to the creators of the original Model.
+
+Redistribution:
+
+Redistribution of the Model, in part or whole, whether modified or unmodified, is allowed, provided that the original authors of the Model are credited, and this license is included with any distribution.
+
+Ethical Use:
+
+The Model must not be used in any way that infringes on human rights or promotes discrimination, violence, or harm to individuals or groups.
+The use of the Model in systems involving autonomous decision-making that can cause harm must include a thorough risk assessment and safety measures.
+
+AI Model Interpretability:
+
+Users are encouraged to include documentation that explains the purpose and functioning of the AI Model, to ensure transparency in its usage.
+
+THE MODEL IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE MODEL OR THE USE OR OTHER DEALINGS IN THE MODEL.
